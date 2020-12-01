@@ -8,7 +8,7 @@ gem 'bcrypt', '~> 3.1.16'
 gem 'rack-cors', require: 'rack/cors'
 gem 'rails', '~> 6.0.3'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 5.1'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 
